@@ -1,0 +1,53 @@
+{
+  "name": "agentic-code-standards",
+  "version": "1.0.0",
+  "description": "Production-ready coding standards for AI coding agents (Cursor, Windsurf, Antigravity, Copilot). WCAG 2.1+ accessibility, React, testing, security.",
+  "keywords": [
+    "ai",
+    "coding-standards",
+    "cursor",
+    "windsurf",
+    "antigravity",
+    "copilot",
+    "cline",
+    "accessibility",
+    "wcag",
+    "a11y",
+    "react",
+    "typescript",
+    "agentic",
+    "code-quality",
+    "cursorrules"
+  ],
+  "homepage": "https://github.com/nitishkaf/agentic-code-standards",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nitishkaf/agentic-code-standards.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nitishkaf/agentic-code-standards/issues"
+  },
+  "license": "MIT",
+  "author": "Nitish Kafle <kaflenit@gmail.com>",
+  "main": "lib/installer.js",
+  "bin": {
+    "agentic-code-standards": "bin/init.js"
+  },
+  "files": [
+    "bin/",
+    "lib/",
+    "templates/",
+    "standards/",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node scripts/test-templates.js",
+    "validate": "node scripts/validate-rules.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

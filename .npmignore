@@ -1,0 +1,22 @@
+# Development files
+.github/
+.vscode/
+.idea/
+*.log
+
+# Test files
+test/
+*.test.js
+coverage/
+
+# Documentation (keep only essential)
+examples/
+docs/
+screenshots/
+
+# Git files
+.git/
+.gitignore
+
+# CI/CD
+*.yml
