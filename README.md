@@ -15,8 +15,16 @@ Turn your AI assistant into a senior engineer that knows your team's rules.
 
 Initialize standardized rules in your project with a single command. **No installation required.**
 
+### Using bash
+
 ```bash
 npx codingwithagent init
+```
+
+### Using yarn
+
+```bash
+yarn dlx codingwithagent init
 ```
 
 The interactive CLI will guide you through the setup:
