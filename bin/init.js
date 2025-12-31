@@ -188,7 +188,7 @@ function showNextSteps(tool, profile) {
   console.log('');
   
   log('📚 Documentation:', 'blue');
-  log('  https://github.com/yourusername/agentic-code-standards');
+  log('  https://github.com/nitishkaf/agentic-code-standards');
   console.log('');
   
   if (tool === 'antigravity') {
