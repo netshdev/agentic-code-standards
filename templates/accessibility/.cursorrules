@@ -339,4 +339,4 @@ const Modal = ({ isOpen, onClose, children }) => {
 - TalkBack: Built into Android
 
 Accessibility is not optional.
-Full documentation: https://github.com/nitishkaf/agentic-code-standards
+Full documentation: https://github.com/netshdev/agentic-code-standards

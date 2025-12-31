@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nitishkaf/agentic-code-standards.git"
+    "url": "git+https://github.com/netshdev/agentic-code-standards.git"
   },
   "keywords": [
     "ai",
@@ -38,9 +38,9 @@
   "author": "Nitish Kafle <kaflenit@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nitishkaf/agentic-code-standards/issues"
+    "url": "https://github.com/netshdev/agentic-code-standards/issues"
   },
-  "homepage": "https://github.com/nitishkaf/agentic-code-standards#readme",
+  "homepage": "https://github.com/netshdev/agentic-code-standards#readme",
   "engines": {
     "node": ">=14.0.0"
   },
